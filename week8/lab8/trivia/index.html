@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
+    <title>Trivia!</title>
+    <script>
+        function checkAnswer(choosenOption, event) {
+            const correctAnswer = '1912';
+            const feedbackElement = document.getElementById('part1-feedback');
+
+            if (choosenOption === correctAnswer) {
+                feedbackElement.textContent = 'Correct!';
+                feedbackElement.style.color = '#4CAF50';
+                event.target.classList.add('correct');
+            } else {
+                feedbackElement.textContent = 'Incorrect';
+                feedbackElement.style.color = '#FF5733';
+                event.target.classList.add('incorrect');
+            }
+        }
+
+        function checkFreeResponse(event) {
+            const userAnswer = document.getElementById('free-response-input').value.toLowerCase();
+            const correctAnswer = 'jupiter';
+            const feedbackElement = document.getElementById('part2-feedback');
+            const inputField = document.getElementById('free-response-input');
+
+            if (userAnswer === correctAnswer) {
+                feedbackElement.textContent = 'Correct!';
+                feedbackElement.style.color = '#4CAF50';
+                inputField.classList.add('correct');
+                inputField.classList.remove('incorrect');
+            } else {
+                feedbackElement.textContent = 'Incorrect';
+                feedbackElement.style.color = '#FF5733';
+                inputField.classList.add('incorrect');
+                inputField.classList.remove('correct');
+            }
+        }
+    </script>
+</head>
+<body>
+    <div class="header">
+        <h1>Trivia!</h1>
+    </div>
+
+    <div class="container">
+        <div class="section">
+            <h2>Part 1: Multiple Choice </h2>
+            <hr>
+            <h3>In which year did the Titanic sink?</h3>
+            <div class="options">
+                <button onclick="checkAnswer('1905', event)">1905</button>
+                <button onclick="checkAnswer('1912', event)">1912</button>
+                <button onclick="checkAnswer('1920', event)">1920</button>
+            </div>
+            <p id="part1-feedback"></p>
+        </div>
+
+        <div class="section">
+            <h2>Part 2: Free Response</h2>
+            <hr>
+            <h3>What is the largest planet in our solar system?</h3>
+            <input type="text" id="free-response-input">
+            <button onclick="checkFreeResponse(event)">Check Answer</button>
+            <p id="part2-feedback"></p>
+        </div>
+    </div>
+</body>
+</html>
