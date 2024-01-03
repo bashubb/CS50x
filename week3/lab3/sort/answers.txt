@@ -1,0 +1,13 @@
+sort1 uses: bubble sort
+
+How do you know?:I've tried random10000 and sorted10000 and compared the sorting times. They are not equal.
+
+sort2 uses: merge sort
+
+How do you know?: I've tried sort2 and sort3 on reversed50000and sort2 is faster
+
+sort3 uses: selection sort
+
+How do you know?: The time of sorting reversed50000 and sorted50000 are the same but slower than if I use for the same sort2
+ s
+
