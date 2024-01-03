@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How the Internet Works</title>
+    <!-- Bootstrap CSS link -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <!-- Custom CSS link -->
+    <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Bootstrap Navigation Bar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">Internet Explained</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="index.html">Introduction</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="page2.html">Networking Basics</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="page3.html">Protocols and Standards</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="page4.html">Web Technologies</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Main content container -->
+    <div class="container">
+        <h1>How the Internet Works</h1>
+        <p>Explore the different aspects of the internet:</p>
+
+        <!-- Bootstrap Card Component -->
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Networking Basics</h5>
+                <p>
+                    <button class="btn btn-link" data-toggle="collapse" data-target="#networkingBasics" aria-expanded="false" aria-controls="networkingBasics">
+                        More
+                    </button>
+                </p>
+                <div id="networkingBasics" class="collapse">
+                    <p>
+                        Understanding networking basics is essential in comprehending the infrastructure that enables the internet's seamless communication. Networking involves the interconnection of devices to share resources, exchange information, and facilitate communication. At its core, networks can be categorized into two types: local area networks (LANs) and wide area networks (WANs).
+                    </p>
+
+                    <p>
+                        Local area networks (LANs) are confined to a limited geographic area, such as a home, office, or campus. These networks connect devices like computers, printers, and servers, allowing them to share files and resources. LANs often utilize Ethernet cables or wireless technologies like Wi-Fi for connectivity.
+                    </p>
+
+                    <p>
+                        On the other hand, wide area networks (WANs) cover larger geographical areas, connecting multiple LANs. The internet itself is a vast example of a WAN, linking computers and networks globally. WANs rely on various technologies, including routers and switches, to transmit data over longer distances.
+                    </p>
+
+                    <p>
+                        The fundamental unit of data in networking is the packet. Data is broken down into packets for efficient transmission across networks. Each packet contains information like source and destination addresses, ensuring it reaches its intended recipient. Protocols, such as the Internet Protocol (IP) and Transmission Control Protocol (TCP), govern the transmission and reception of these packets.
+                    </p>
+
+                    <p>
+                        Networking devices play a crucial role in ensuring efficient communication. Routers connect different networks, directing data between them. Switches enable devices within the same network to communicate directly, enhancing efficiency. Hubs and bridges are additional devices used to connect and manage network traffic.
+                    </p>
+
+                    <p>
+                        The Domain Name System (DNS) is another vital component of networking. It translates human-readable domain names into IP addresses, facilitating easy navigation on the internet. Without DNS, users would need to memorize numerical IP addresses to access websites.
+                    </p>
+
+                    <p>
+                        Security is a paramount concern in networking. Firewalls are employed to monitor and control incoming and outgoing network traffic, safeguarding against unauthorized access. Virtual Private Networks (VPNs) ensure secure communication over public networks, encrypting data for confidentiality.
+                    </p>
+
+                    <p>
+                        In conclusion, networking basics form the foundation of the interconnected world we live in. Whether it's a small local network or the expansive internet, understanding the principles of networking is key to efficient data transmission, resource sharing, and global communication.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS and jQuery scripts -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+</body>
+</html>
