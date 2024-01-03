@@ -1,0 +1,10 @@
++----------+---------+---------+
+| valence  |  dance  | energy  |
++----------+---------+---------+
+| 0.484443 | 0.71646 | 0.65906 |
++----------+---------+---------+
+
+
+I would say that listener likes more energy and danceability than valence of music.
+Maybe he/she is a dancer or maybe just likes to have fun.
+
