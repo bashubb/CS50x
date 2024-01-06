@@ -1,7 +1,7 @@
 CS50x Problem Set 2: Bulbs 🌟
 =============================
 
-**Welcome** to the second problem set challenge in the CS50x course---Bulbs. In this challenge, we'll explore the concept of encoding messages into binary using light bulbs. The task is to write a program named `bulbs` that converts a given message into instructions for a strip of bulbs, where each character is represented by an 8-bit binary number. 💡
+**Welcome** to the second problem set challenge in the CS50x course---Bulbs. In this challenge, I have explored the concept of encoding messages into binary using light bulbs. The task was to write a program named `bulbs` that converts a given message into instructions for a strip of bulbs, where each character is represented by an 8-bit binary number. 💡
 
 Not-So-Broken Light Bulbs
 -------------------------
