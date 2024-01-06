@@ -1,6 +1,6 @@
 # Scratch Project
 
-Hey there, it's time to dive into the world of Scratch on scratch.mit.edu! I've got the creative freedom to whip up something awesome—whether it's a game, story, or animation. Here's the lowdown on what I need for this project:
+Hey there, it's time to dive into the world of Scratch on scratch.mit.edu! 🌐 I've got the creative freedom to whip up something awesome—whether it's a game, story, or animation. Here's the lowdown on what I need for this project:
 
 1. **Spriting Fun:** I've gotta use at least two sprites, and to keep it interesting, one of them can't be a cat.
 
@@ -12,8 +12,6 @@ Hey there, it's time to dive into the world of Scratch on scratch.mit.edu! I've 
 
 ## My Simple Game
 
-Now, check out my simple game in action:
+### Now, check out my simple game in action:
 
-<iframe src="https://scratch.mit.edu/projects/164932339/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
-I've put in the effort to meet all the project requirements, and here's a sneak peek into the result. Dive into the video and see the magic unfold!
+I've put in the effort to meet all the project requirements, and here's a sneak peek into the result. 🚀🎮 Dive into the [Scratch project](https://scratch.mit.edu/projects/942685897/embed) for more fun and excitement! 🌟🎉
