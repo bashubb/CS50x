@@ -1,4 +1,4 @@
-DNA Profiler 🔬🧬
+CS50x Problem set 6: DNA Profiler 🔬🧬
 =================
 
 Introduction 🌐
