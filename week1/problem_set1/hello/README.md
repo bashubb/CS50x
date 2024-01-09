@@ -1,9 +1,5 @@
 CS50x Problem Set 1: 
--------------
-Hello, User! 👋👤
-
-Overview:
--------------
+======================
 Welcome to the first problem set challenge in CS50x! In this assignment, I've created a basic C program that prompts the user for their name and responds with a personalized greeting.
 
 Problem Description: 
