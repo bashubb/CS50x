@@ -1,4 +1,4 @@
-Lab 6: World Cup Simulator 🌍⚽
+CS50x Lab 6: World Cup Simulator 🌍⚽
 ==============================
 
 Hey there! This lab is all about simulating the FIFA World Cup using past team ratings. The goal is to estimate each team's chances of winning by running simulations. We'll be working with data from the Men's 2018 World Cup and Women's 2019 World Cup.
