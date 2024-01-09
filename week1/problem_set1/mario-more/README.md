@@ -1,4 +1,4 @@
-#  CS50x Problem Set 1: Mario (More Comfortable)
+#  CS50x Problem Set 1: Mario (More)
 
 ##  Overview
 
