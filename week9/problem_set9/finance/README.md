@@ -21,6 +21,10 @@ Features
 
 🔄 **Transaction History:** Keep track of all buy and sell activities for a comprehensive financial history.
 
+Sample Output
+---------------
+<img src="https://github.com/bashubb/CS50x/blob/main/Finance.gif" width="70%" hight="70%">
+    
 Getting Started
 ---------------
 
@@ -38,20 +42,5 @@ Getting Started
 
     Visit the provided URL to explore the application.
 
-3.  **Sample Output:**
-
-<img src="https://github.com/bashubb/CS50x/blob/main/Finance.gif" width="70%" hight="70%">
-    
-
-Testing
--------
-
-Ensure the application's reliability by testing various scenarios:
-
--   Register a new user and verify the portfolio page.
--   Request stock quotes using valid symbols.
--   Purchase stocks multiple times and verify correct totals.
--   Sell stocks and check the portfolio.
--   Review transaction history for all user activities.
 
 Happy trading! 🚀📈
