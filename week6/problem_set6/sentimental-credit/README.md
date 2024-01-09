@@ -1,4 +1,4 @@
-CS50 Problem set 6: Credit  💳
+CS50x Problem set 6: Credit  💳
 =========================
 
 Introduction 🌐
