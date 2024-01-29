@@ -135,7 +135,7 @@ In week nine, participants explore Flask, a Python framework for building web ap
 
     -   [finance](https://github.com/bashubb/CS50x/tree/main/week9/problem_set9/finance)
     -   [lab - Birthdays](https://github.com/bashubb/CS50x/tree/main/week9/lab9/birthdays)
-
+<br>
 
 **Week 10: Final Project : Visual Sort**
 
