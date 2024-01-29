@@ -23,7 +23,7 @@ In this week, foundational concepts of computer science are introduced, covering
 For more information about project click [here](https://github.com/bashubb/CS50x/tree/main/week0)
 
 Click [here](https://scratch.mit.edu/projects/942685897/embed/) to play the game that I created !
-<br>
+<br><br>
 
 ### C - weeks 1 to 5
 
