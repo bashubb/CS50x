@@ -146,7 +146,9 @@ Check more [here](https://github.com/bashubb/VisualSort)
 Contact
 ------------------------------------------------------------
 
-[![LinkedIn Badge](https://camo.githubusercontent.com/7a1ce969e97f56c488f443b0095cd33879fd7e83a5695484496d3c3d4cb3a980/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676574253230696e253230746f756368212d3030373742353f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://linkedin.com/in/hubert-kielkowski)
+<p align="left">
+<a href="https://linkedin.com/in/hubert-kielkowski" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="hubert-kielkowski"/> <a href="https://discord.gg/https://discord.gg/Hnr2vdnbSX" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"/></a>
+</p>
 
 CS50 Certificate
 ------------------------------------------------------------------------------
