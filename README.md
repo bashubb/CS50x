@@ -23,7 +23,6 @@ In this week, foundational concepts of computer science are introduced, covering
 For more information about project click [here](https://github.com/bashubb/CS50x/tree/main/week0)
 
 Click [here](https://scratch.mit.edu/projects/942685897/embed/) to play the game that I created !
-
 <br>
 
 ### C - weeks 1 to 5
@@ -40,8 +39,8 @@ Diving into the second week, participants explore C, a low-level programming lan
     -   [mario](https://github.com/bashubb/CS50x/tree/main/week1/problem_set1/mario-more)
     -   [cash](https://github.com/bashubb/CS50x/tree/main/week1/problem_set1/cash)
     -   [lab - Population](https://github.com/bashubb/CS50x/tree/main/week1/lab1/Population)
-
 <br>
+
 **Week 2: Introduction to Arrays**
 
 Continuing with C programming, this week delves into program compilation, debugging, arrays, characters, strings, and command-line arguments. Lab activities include writing a Caesar's cipher program, while the problem set presents a scrabble-type challenge, familiar to those with prior experience in JavaScript Algorithm and Data Structures.
@@ -51,8 +50,8 @@ Continuing with C programming, this week delves into program compilation, debugg
     -   [bulbs](https://github.com/bashubb/CS50x/tree/main/week2/problem_set2/bulbs)
     -   [substitution](https://github.com/bashubb/CS50x/tree/main/week2/problem_set2/substitution)
     -   [lab - Scrabble](https://github.com/bashubb/CS50x/tree/main/week2/lab2/scrabble)
-
 <br>
+
 **Week 3: Introduction to Algorithms**
 
 The third week focuses on diverse search types (linear and binary), sorting methods (selection and bubble), and recursion. Concepts like big O notation, crucial in computer science, are explained through additional short videos. Problem sets challenge participants' understanding of these algorithmic concepts.
@@ -61,8 +60,8 @@ The third week focuses on diverse search types (linear and binary), sorting meth
     -   [plurality](https://github.com/bashubb/CS50x/tree/main/week3/problem_set3/plurality)
     -   [runoff](https://github.com/bashubb/CS50x/tree/main/week3/problem_set3/runoff)
     -   [lab - sort](https://github.com/bashubb/CS50x/tree/main/week3/lab3/sort)
-
 <br>
+
 **Week 4: Computer Memory**
 
 Week four explores computer memory, covering pointers, addresses, memory allocation, freeing memory, detecting memory leaks, and explaining stack overflow. Lab and problem set activities involve audio and image file manipulation, showcasing practical applications of memory-related concepts.
@@ -71,8 +70,8 @@ Week four explores computer memory, covering pointers, addresses, memory allocat
     -   [filter](https://github.com/bashubb/CS50x/tree/main/week4/problem_set4/filter-less)
     -   [recover](https://github.com/bashubb/CS50x/tree/main/week4/problem_set4/recover)
     -   [lab - smiley](https://github.com/bashubb/CS50x/tree/main/week4/lab4/smiley)
-
 <br>
+
 **Week 5: Data Structures**
 
 Concluding the C programming section, week five delves into pointers' usage for storing memory addresses in linked lists. Lab exercises solidify understanding, while the problem set introduces creating a spell-checking program, providing a challenging yet rewarding exercise.
@@ -80,11 +79,10 @@ Concluding the C programming section, week five delves into pointers' usage for 
 -   [Problem Set 5](https://github.com/bashubb/CS50x/tree/main/week5)
     -   [speller](https://github.com/bashubb/CS50x/tree/main/week5/problem_set5/speller)
     -   [lab - Inheritance](https://github.com/bashubb/CS50x/tree/main/week5/lab5)
-
-
 <br>
+
 ### Python - week 6
-<br>
+
 
 **Week 6: Learn Python Basics**
 
@@ -92,18 +90,18 @@ Transitioning from C to Python in week six, participants work on problem sets tr
 
 -   [Problem Set](https://github.com/bashubb/CS50x/tree/main/week6)
     -   [hello](https://github.com/bashubb/CS50x/tree/main/week6/problem_set6/sentimental-hello)
-    -   [mario]
+    -   mario
         -   [less](https://github.com/bashubb/CS50x/tree/main/week6/problem_set6/sentimental-mario-less)
         -   [more](https://github.com/bashubb/CS50x/tree/main/week6/problem_set6/sentimental-mario-more)
     -   [credit](https://github.com/bashubb/CS50x/tree/main/week6/problem_set6/sentimental-credit)
     -   [readability](https://github.com/bashubb/CS50x/tree/main/week6/problem_set6/sentimental-readability)
     -   [dna](https://github.com/bashubb/CS50x/tree/main/week6/problem_set6/dna)
     -   [lab - World Cup](https://github.com/bashubb/CS50x/tree/main/week6/lab6/world-cup)
-
-
 <br>
+
+
 ### SQL
-<br>
+
 
 **Week 7: SQL and Relational Databases**
 
@@ -113,11 +111,11 @@ Week seven introduces relational databases and SQL using SQLite. The problem set
     -   [movies](https://github.com/bashubb/CS50x/tree/main/week7/problem_set7/movies)
     -   [fiftyville](https://github.com/bashubb/CS50x/tree/main/week7/problem_set7/fiftyville)
     -   [lab - Songs](https://github.com/bashubb/CS50x/tree/main/week7/lab7/songs)
-
-
 <br>
+
+
 ### Web Development- weeks 8 to 10
-<br>
+
 
 **Week 8: HTML, CSS, and JavaScript**
 
@@ -127,8 +125,8 @@ Covering internet and web basics in week eight, participants learn HTML, CSS, an
 
     -   [homepage](https://github.com/bashubb/CS50x/tree/main/week8/problem_set8/homepage)
     -   [lab - Trivia](https://github.com/bashubb/CS50x/tree/main/week8/lab8/trivia)
-
 <br>
+
 **Week 9: Flask**
 
 In week nine, participants explore Flask, a Python framework for building web applications. Topics include forms, layouts, templating with Jinja, POST and GET requests, and email handling in Flask applications. The challenging problem set involves implementing a full-stack finance application, applying cumulative knowledge from the course.
@@ -138,12 +136,12 @@ In week nine, participants explore Flask, a Python framework for building web ap
     -   [finance](https://github.com/bashubb/CS50x/tree/main/week9/problem_set9/finance)
     -   [lab - Birthdays](https://github.com/bashubb/CS50x/tree/main/week9/lab9/birthdays)
 
-<br>
+
 **Week 10: Final Project : Visual Sort**
 
 VisualSort is an iOS app crafted with SwiftUI and Swift, delivering dynamic visualizations of sorting algorithms like Bubble Sort, Insertion Sort, and Quick Sort in real-time!
 Check more [here](https://github.com/bashubb/VisualSort)
-<br><br>
+<br>
 
 Contact
 ------------------------------------------------------------
