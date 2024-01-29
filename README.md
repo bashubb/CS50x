@@ -22,17 +22,14 @@ In this week, foundational concepts of computer science are introduced, covering
 
 For more information about project click [here](https://github.com/bashubb/CS50x/tree/main/week0)
 
-Link to play the game that I created :
-
-```
-https://scratch.mit.edu/projects/942685897/embed/
+Click [here](https://scratch.mit.edu/projects/942685897/embed/) to play the game that I created !
 
 
-```
 
-C - weeks 1 to 5
+###C - weeks 1 to 5
 
 > The problems use the CS50 Library for C, you can check it [here](https://github.com/cs50/libcs50)
+
 
 **Week 1: Learn C**
 
@@ -44,6 +41,7 @@ Diving into the second week, participants explore C, a low-level programming lan
     -   [cash](https://github.com/bashubb/CS50x/tree/main/week1/problem_set1/cash)
     -   [lab - Population](https://github.com/bashubb/CS50x/tree/main/week1/lab1/Population)
 
+
 **Week 2: Introduction to Arrays**
 
 Continuing with C programming, this week delves into program compilation, debugging, arrays, characters, strings, and command-line arguments. Lab activities include writing a Caesar's cipher program, while the problem set presents a scrabble-type challenge, familiar to those with prior experience in JavaScript Algorithm and Data Structures.
@@ -54,95 +52,111 @@ Continuing with C programming, this week delves into program compilation, debugg
     -   [substitution](https://github.com/bashubb/CS50x/tree/main/week2/problem_set2/substitution)
     -   [lab - Scrabble](https://github.com/bashubb/CS50x/tree/main/week2/lab2/scrabble)
 
+
 **Week 3: Introduction to Algorithms**
 
 The third week focuses on diverse search types (linear and binary), sorting methods (selection and bubble), and recursion. Concepts like big O notation, crucial in computer science, are explained through additional short videos. Problem sets challenge participants' understanding of these algorithmic concepts.
 
--   [Problem Set 3](https://github.com/tiagobpires/CS50x-2022/blob/main/pset3)
-    -   [plurality](https://github.com/tiagobpires/CS50x-2022/blob/main/pset3/plurality.c)
-    -   [runoff](https://github.com/tiagobpires/CS50x-2022/blob/main/pset3/runoff.c)
-    -   [lab - Answers](https://github.com/tiagobpires/CS50x-2022/blob/main/labs/lab3)
+-   [Problem Set 3](https://github.com/bashubb/CS50x/tree/main/week3)
+    -   [plurality](https://github.com/bashubb/CS50x/tree/main/week3/problem_set3/plurality)
+    -   [runoff](https://github.com/bashubb/CS50x/tree/main/week3/problem_set3/runoff)
+    -   [lab - sort](https://github.com/bashubb/CS50x/tree/main/week3/lab3/sort)
+
 
 **Week 4: Computer Memory**
 
 Week four explores computer memory, covering pointers, addresses, memory allocation, freeing memory, detecting memory leaks, and explaining stack overflow. Lab and problem set activities involve audio and image file manipulation, showcasing practical applications of memory-related concepts.
 
--   [Problem Set 4](https://github.com/tiagobpires/CS50x-2022/blob/main/pset4)
-    -   filter
-        -   [less](https://github.com/tiagobpires/CS50x-2022/blob/main/pset4/filter_less)
-        -   [more](https://github.com/tiagobpires/CS50x-2022/blob/main/pset4/filter_more)
-    -   [recover](https://github.com/tiagobpires/CS50x-2022/blob/main/pset4/recover)
-    -   [lab - Volume](https://github.com/tiagobpires/CS50x-2022/blob/main/labs/lab4)
+-   [Problem Set 4](https://github.com/bashubb/CS50x/tree/main/week4)
+    -   [filter](https://github.com/bashubb/CS50x/tree/main/week4/problem_set4/filter-less)
+    -   [recover](https://github.com/bashubb/CS50x/tree/main/week4/problem_set4/recover)
+    -   [lab - smiley](https://github.com/bashubb/CS50x/tree/main/week4/lab4/smiley)
+
 
 **Week 5: Data Structures**
 
 Concluding the C programming section, week five delves into pointers' usage for storing memory addresses in linked lists. Lab exercises solidify understanding, while the problem set introduces creating a spell-checking program, providing a challenging yet rewarding exercise.
 
--   [Problem Set 5](https://github.com/tiagobpires/CS50x-2022/blob/main/pset5)
-    -   [speller](https://github.com/tiagobpires/CS50x-2022/blob/main/pset5/speller.c)
-    -   [lab - Inheritance](https://github.com/tiagobpires/CS50x-2022/blob/main/labs/lab5)
+-   [Problem Set 5](https://github.com/bashubb/CS50x/tree/main/week5)
+    -   [speller](https://github.com/bashubb/CS50x/tree/main/week5/problem_set5/speller)
+    -   [lab - Inheritance](https://github.com/bashubb/CS50x/tree/main/week5/lab5)
+
+
 
 ### Python - week 6
+
 
 **Week 6: Learn Python Basics**
 
 Transitioning from C to Python in week six, participants work on problem sets translating earlier C programs into Python. Python's user-friendly nature offers a smoother learning experience.
 
--   [Problem Set](https://github.com/tiagobpires/CS50x-2022/blob/main/pset6)
-    -   [hello](https://github.com/tiagobpires/CS50x-2022/blob/main/pset6/hello.py)
+-   [Problem Set](https://github.com/bashubb/CS50x/tree/main/week6)
+    -   [hello](https://github.com/bashubb/CS50x/tree/main/week6/problem_set6/sentimental-hello)
     -   [mario]
-        -   [less](https://github.com/tiagobpires/CS50x-2022/blob/main/pset6/mario_less.py)
-        -   [more](https://github.com/tiagobpires/CS50x-2022/blob/main/pset6/mario_more.py)
-    -   [cash](https://github.com/tiagobpires/CS50x-2022/blob/main/pset6/cash.py)
-    -   [credit](https://github.com/tiagobpires/CS50x-2022/blob/main/pset6/credit.py)
-    -   [readability](https://github.com/tiagobpires/CS50x-2022/blob/main/pset6/readability.py)
-    -   [dna](https://github.com/tiagobpires/CS50x-2022/blob/main/pset6/dna)
-    -   [lab - World Cup](https://github.com/tiagobpires/CS50x-2022/blob/main/labs/lab6)
+        -   [less](https://github.com/bashubb/CS50x/tree/main/week6/problem_set6/sentimental-mario-less)
+        -   [more](https://github.com/bashubb/CS50x/tree/main/week6/problem_set6/sentimental-mario-more)
+    -   [credit](https://github.com/bashubb/CS50x/tree/main/week6/problem_set6/sentimental-credit)
+    -   [readability](https://github.com/bashubb/CS50x/tree/main/week6/problem_set6/sentimental-readability)
+    -   [dna](https://github.com/bashubb/CS50x/tree/main/week6/problem_set6/dna)
+    -   [lab - World Cup](https://github.com/bashubb/CS50x/tree/main/week6/lab6/world-cup)
+
+
 
 ### SQL
+
 
 **Week 7: SQL and Relational Databases**
 
 Week seven introduces relational databases and SQL using SQLite. The problem set involves solving a mystery by executing SQL queries, adding an intriguing twist to database exploration.
 
--   [Problem Set 7: SQL](https://github.com/tiagobpires/CS50x-2022/blob/main/pset7)
-    -   [movies](https://github.com/tiagobpires/CS50x-2022/blob/main/pset7/movies)
-    -   [fiftyville](https://github.com/tiagobpires/CS50x-2022/blob/main/pset7/fiftyville)
-    -   [lab - Songs](https://github.com/tiagobpires/CS50x-2022/blob/main/labs/lab7)
+-   [Problem Set 7: SQL](https://github.com/bashubb/CS50x/tree/main/week7)
+    -   [movies](https://github.com/bashubb/CS50x/tree/main/week7/problem_set7/movies)
+    -   [fiftyville](https://github.com/bashubb/CS50x/tree/main/week7/problem_set7/fiftyville)
+    -   [lab - Songs](https://github.com/bashubb/CS50x/tree/main/week7/lab7/songs)
+
+
 
 ### Web Development- weeks 8 to 10
+
 
 **Week 8: HTML, CSS, and JavaScript**
 
 Covering internet and web basics in week eight, participants learn HTML, CSS, and JavaScript for client-side development. The problem set requires creating a personal home page, integrating knowledge of web technologies.
 
--   [Problem Set 8](https://github.com/tiagobpires/CS50x-2022/blob/main/pset8)
+-   [Problem Set 8](https://github.com/bashubb/CS50x/tree/main/week8)
 
-    -   [homepage](https://github.com/tiagobpires/CS50x-2022/blob/main/pset8/homepage)
-    -   [lab - Trivia](https://github.com/tiagobpires/CS50x-2022/blob/main/labs/lab8)
--   [Problem Set 8: Flask](https://github.com/tiagobpires/CS50x-2022/blob/main/pset9)
+    -   [homepage](https://github.com/bashubb/CS50x/tree/main/week8/problem_set8/homepage)
+    -   [lab - Trivia](https://github.com/bashubb/CS50x/tree/main/week8/lab8/trivia)
 
-    -   [lab - Birthdays](https://github.com/tiagobpires/CS50x-2022/blob/main/labs/lab9)
--   Final Project: Readme Creator
 
 **Week 9: Flask**
 
 In week nine, participants explore Flask, a Python framework for building web applications. Topics include forms, layouts, templating with Jinja, POST and GET requests, and email handling in Flask applications. The challenging problem set involves implementing a full-stack finance application, applying cumulative knowledge from the course.
 
-    
+-   [Problem Set 9: Flask](https://github.com/bashubb/CS50x/tree/main/week9)
 
-[](https://github.com/tiagobpires/CS50x-2022#contact)Contact
+    -   [finance](https://github.com/bashubb/CS50x/tree/main/week9/problem_set9/finance)
+    -   [lab - Birthdays](https://github.com/bashubb/CS50x/tree/main/week9/lab9/birthdays)
+
+
+**Week 10: Final Project : Visual Sort
+
+VisualSort is an iOS app crafted with SwiftUI and Swift, delivering dynamic visualizations of sorting algorithms like Bubble Sort, Insertion Sort, and Quick Sort in real-time!
+Check more [here](https://github.com/bashubb/VisualSort)
+
+
+Contact
 ------------------------------------------------------------
 
 [![](https://avatars.githubusercontent.com/tiagobpires?size=100)](https://avatars.githubusercontent.com/tiagobpires?size=100)
 
 Made with ❤️ by [Tiago Barros](https://github.com/tiagobpires). Feel free to contact me to discuss any of the solutions, or even just talk! 😊
 
-[![LinkedIn Badge](https://camo.githubusercontent.com/7a1ce969e97f56c488f443b0095cd33879fd7e83a5695484496d3c3d4cb3a980/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676574253230696e253230746f756368212d3030373742353f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/rafaelbpires)
+[![LinkedIn Badge](https://camo.githubusercontent.com/7a1ce969e97f56c488f443b0095cd33879fd7e83a5695484496d3c3d4cb3a980/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676574253230696e253230746f756368212d3030373742353f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://linkedin.com/in/hubert-kielkowski)
 
-[](https://github.com/tiagobpires/CS50x-2022#cs50-certificate)CS50 Certificate
+CS50 Certificate
 ------------------------------------------------------------------------------
 
+<img src="https://github.com/bashubb/CS50x/blob/main/CS50x%20certificate.png">
 
-
-That was CS50! A big thanks to David Malan and all staff!
+That was CS50! A big thanks to David Malan!
